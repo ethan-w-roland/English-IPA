@@ -6,7 +6,7 @@ Each source contains mappings from English Spelling to IPA
 Sources:
 
 -CMU Pronouncing Dictionary (General American) <br>
-(Link)[http://www.speech.cs.cmu.edu/cgi-bin/cmudict]
+[Link](http://www.speech.cs.cmu.edu/cgi-bin/cmudict)
 
 -Britfone Pronuncing Dictionary (Recieved Pronunciation) <br>
 Link[https://github.com/JoseLlarena/Britfone]
