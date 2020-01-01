@@ -19,3 +19,7 @@ Each source contains mappings from English Spelling to IPA <br>
 
 * Open Dict Data - US (General American) <br>
 [Link](https://github.com/open-dict-data/ipa-dict/blob/master/data/en_US.txt)
+
+**Note**
+CMU, Britfone, and TIMT have space-separated phonemes for the phonetic transcription.<br>
+OpenDict-US and OpenDict-UK omit these spaces
