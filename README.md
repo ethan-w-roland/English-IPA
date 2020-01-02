@@ -2,6 +2,8 @@
 Various phonetic transcriptions of English words in JSON format <br>
 Includes both Recieved Pronunciation and General American <br>
 Each source contains mappings from English Spelling to IPA <br>
+Sources that have multiple transcriptions per word have a JSON list <br>
+containing multiple transcriptions, as opposed to a simple string
 
 **Sources:**
 
