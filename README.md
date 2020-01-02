@@ -13,16 +13,16 @@ Each source contains mappings from English Spelling to IPA <br>
   * [Link](http://www.speech.cs.cmu.edu/cgi-bin/cmudict)
 
 * Britfone Pronuncing Dictionary (Recieved Pronunciation) <br>
-[Link](https://github.com/JoseLlarena/Britfone)
+  * [Link](https://github.com/JoseLlarena/Britfone)
 
 * TIMT Dict (General American) <br>
-[Link](https://catalog.ldc.upenn.edu/LDC93S1)
+  * [Link](https://catalog.ldc.upenn.edu/LDC93S1)
 
 * Open Dict Data - UK (Recieved Pronunciation) <br>
-[Link](https://github.com/open-dict-data/ipa-dict/blob/master/data/en_UK.txt)
+  * [Link](https://github.com/open-dict-data/ipa-dict/blob/master/data/en_UK.txt)
 
 * Open Dict Data - US (General American) <br>
-[Link](https://github.com/open-dict-data/ipa-dict/blob/master/data/en_US.txt)
+  * [Link](https://github.com/open-dict-data/ipa-dict/blob/master/data/en_US.txt)
 
 **Note:**
 
