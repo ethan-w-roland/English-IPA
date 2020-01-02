@@ -1,5 +1,5 @@
 # English-IPA
-Phonetic transcriptions of English words in JSON format <br>
+Various phonetic transcriptions of English words in JSON format <br>
 Includes both Recieved Pronunciation and General American <br>
 Each source contains mappings from English Spelling to IPA <br>
 
