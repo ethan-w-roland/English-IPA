@@ -9,7 +9,7 @@ containing multiple transcriptions, as opposed to a simple string
 
 * Diaphonetic English Dictionary
   * draws from Open Dict Data US & UK
-  * see readme under DiaDict for details
+  * work in progress
 
 * CMU Pronouncing Dictionary (General American) <br>
   * [Link](http://www.speech.cs.cmu.edu/cgi-bin/cmudict)
